@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.uneven {
+    background-color: rgb(250, 198, 182);
+    font-family: Verdana "DejaVu Sans" sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.size {
+    font-size: 24px;
+}
