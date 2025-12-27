@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.firstb {
+    background-color: black;
+    color: white;
+}
+
+.secondb {
+    background-color: yellow;
+}
+
+
+.firstb,
+.secondb {
+    font-size: 28px;
+    font-family: Helvetica "Times New Roman" sans-serif;
+}
